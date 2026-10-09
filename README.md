@@ -5,7 +5,7 @@
 
 ### 💻 Estudante de Desenvolvimento de Sistemas | ETEC AMS Araras
 
-🚀 Apaixonado por tecnologia, desenvolvimento web e pela criação de soluções que fazem a diferença.
+🚀  Apaixonado por esportes, tecnologia, desenvolvimento web e pela criação de soluções que fazem a diferença.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Web+em+formacao;Sempre+aprendendo+algo+novo!;Transformando+ideias+em+codigo" alt="Apresentação animada" />
 
@@ -16,7 +16,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Desenvolvimento de Sistemas na ETEC AMS Araras**
-- 💻 Desenvolvendo habilidades em **Front-end e Back-end**
+- 💻 Desenvolvendo habilidades em **Front-end**
 - 🌱 Aprimorando meus conhecimentos em **Django, HTML, CSS e JavaScript**
 - 🛠️ Trabalhando no **StoreLink**, meu projeto de TCC
 - 🎯 Buscando evoluir como desenvolvedor e participar de novos projetos
@@ -43,8 +43,8 @@ O **StoreLink** é uma aplicação web desenvolvida como projeto de TCC, com o o
 
 **⚙️ Tecnologias utilizadas:**
 - Django
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Bootstrap
 
